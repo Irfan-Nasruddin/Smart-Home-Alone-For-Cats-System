@@ -45,10 +45,15 @@ follow:
 1. Setup the Firebase application and provide the firebase_options.dart into the Flutter project
 2. Download the apk file for the mobile application and install it
 3. Sign up an account through the mobile application
-3. Setup a Raspberry Pi and install the hub application on the Raspberry Pi
-4. Download necessary libraries into the Raspberry Pi
-5. Install the Remote.It client on the Raspberry Pi
-6. Setup the application on the Raspberry Pi
+4. Setup a Raspberry Pi and install the hub application on the Raspberry Pi
+5. Download necessary libraries into the Raspberry Pi
+6. Install the Remote.It client on the Raspberry Pi
+7. Create a service account
+8. Setup the application on the Raspberry Pi
 
 This is the general sequence of setting up the system. If you encountered any problem trying to setup this system, feel free to reach out to me for help. You can reach 
 me through muhammadirfannasruddin@gmail.com
+
+## Contributions
+This project wouldn't be possible without the contributions from the following people:
+- Amirul Akmal bin Abdul Jalil (amirulakmalabduljalil@gmail.com)
