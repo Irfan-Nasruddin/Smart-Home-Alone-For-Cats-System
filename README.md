@@ -2,16 +2,14 @@
 ## Description
 
 This project was my final year project for my computer science study at the University of Malaya. Since I majored in Software Engineering, proper 
-methods was adhered througout the project. I have documented the whole project and the document can be found within this repository. If you wish a more detailed 
+methods was adhered througout the project. I have documented the whole project and the document can be found within this repository. If you wish for a more detailed 
 explanation of the project, you may refer to the document.
 
 This project involves studying the concept of remote cat care, the development of a system that allows cat owners to remotely care for their cats, and the formal evaluation 
 of the qualities of the developed system.
 
-Lastly, I picked this topic because I think it is the most interesting topic out of all the other topics that was suggested by the project supervisors. I think it is the 
-most interesting topic because it also invovles hadware instead of just software (despite me majoring in SOFTWARE engineering). Besides that, it also invovles the 
-development of a mobile application, of which I never had any experience with. So, that's just how I am. I like trying out new stuff, even if it is something to my 
-detriment (I suffered greatly trying to learn new things while producing this industry grade software).
+Lastly, I picked this final year project topic because I think it is the most interesting topic out of all the other topics that was suggested by the project supervisors. I think it is the most interesting topic because it also invovles hadware instead of just software (despite me majoring in SOFTWARE engineering). Besides that, it also 
+invovles the development of a mobile application, of which I never had any experience with. So, that's just how I am. I like trying out new stuff, even if it is something to my detriment (I suffered greatly trying to learn new things while producing this industry grade software).
 
 ## Technologies
 - Firebase
